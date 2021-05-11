@@ -290,3 +290,4 @@ export { default as KontCog } from './icons/kont-cog';
 export { default as KontGrid } from './icons/kont-grid';
 export { default as KontHelp } from './icons/kont-help';
 export { default as KontImage } from './icons/kont-image';
+export { default as Lightning } from './icons/lightning';
