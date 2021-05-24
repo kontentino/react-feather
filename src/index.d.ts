@@ -299,3 +299,4 @@ export const KontCog: Icon;
 export const KontGrid: Icon;
 export const KontHelp: Icon;
 export const KontImage: Icon;
+export const KontPostIdeas: Icon;
