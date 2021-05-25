@@ -16,10 +16,12 @@ const KontPostIdeas = forwardRef(({ color = 'currentColor', size = 24, ...rest }
       strokeLinejoin="round"
       {...rest}
     >
-      <path d="M13 4H1v3h12V4z" />
-      <path d="M13 1H1v3h12V1z" />
-      <path d="M13 10H1v3h12v-3z" />
-      <path d="M15 7H3v3h12V7z" />
+      <g transform="translate(1.392 2.718) scale(1.32594)">
+        <rect x="1" y="4" width="12" height="3" />
+        <rect x="1" y="1" width="12" height="3" />
+        <rect x="1" y="10" width="12" height="3" />
+        <rect x="3" y="7" width="12" height="3" />
+      </g>
     </svg>
   );
 });

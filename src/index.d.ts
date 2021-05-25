@@ -203,7 +203,6 @@ export const PlusCircle: Icon;
 export const PlusSquare: Icon;
 export const Plus: Icon;
 export const Pocket: Icon;
-export const PostIdeas: Icon;
 export const Power: Icon;
 export const Printer: Icon;
 export const Radio: Icon;

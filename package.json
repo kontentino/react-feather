@@ -1,6 +1,6 @@
 {
   "name": "@kontentino/react-feather",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React component for Feather icons",
   "main": "build/index.js",
   "module": "dist/index.js",
@@ -44,7 +44,7 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
     "@babel/preset-env": "^7.4.5",
     "@babel/preset-react": "^7.0.0",
-    "@kontentino/feather-icons": "1.0.3",
+    "@kontentino/feather-icons": "1.0.4",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "concurrently": "^5.1.0",

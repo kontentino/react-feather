@@ -194,7 +194,6 @@ export { default as PlusCircle } from './icons/plus-circle';
 export { default as PlusSquare } from './icons/plus-square';
 export { default as Plus } from './icons/plus';
 export { default as Pocket } from './icons/pocket';
-export { default as PostIdeas } from './icons/post-ideas';
 export { default as Power } from './icons/power';
 export { default as Printer } from './icons/printer';
 export { default as Radio } from './icons/radio';
