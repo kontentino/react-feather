@@ -300,3 +300,4 @@ export const KontGrid: Icon;
 export const KontHelp: Icon;
 export const KontImage: Icon;
 export const KontPostIdeas: Icon;
+export const Dashboard: Icon;

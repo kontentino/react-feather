@@ -291,3 +291,4 @@ export { default as KontGrid } from './icons/kont-grid';
 export { default as KontHelp } from './icons/kont-help';
 export { default as KontImage } from './icons/kont-image';
 export { default as KontPostIdeas } from './icons/kont-post-ideas';
+export { default as Dashboard } from './icons/dashboard';
